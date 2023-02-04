@@ -1,0 +1,57 @@
+.container {
+  max-width: 1439px;
+  height: 2554px;
+  margin: 0 auto;
+  background-color: rgb(234, 245, 241);
+  position: relative;
+}
+.imgblack {
+  width: 31.3%;
+  height: 31.4%;
+  z-index: 10;
+  position: absolute;
+}
+.imgfoni {
+  width: 37.6%;
+  height: 31.3%;
+  margin-left: 450px;
+}
+.imgtext {
+  position: absolute;
+  top: 195px;
+  left: 165.5px;
+  z-index: o;
+}
+p {
+  width: 350px;
+  height: 160px;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+  position: absolute;
+  top: 190px;
+  left: 925px;
+}
+button {
+  width: 204px;
+  height: 72px;
+  background-color: #151515;
+  color: White;
+  font-family: "Big Shoulders display";
+  letter-spacing: 3.63636px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  top: 414px;
+  left: 925px;
+  position: absolute;
+}
+.imgright {
+  position: absolute;
+  top: 414px;
+  left: 1129px;
+}
