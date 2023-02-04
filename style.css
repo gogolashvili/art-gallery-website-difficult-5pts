@@ -1,8 +1,6 @@
 .container {
-  max-width: 1439px;
-  height: 2554px;
+  max-width: 1440px;
   margin: 0 auto;
-  background-color: rgb(234, 245, 241);
   position: relative;
 }
 .imgblack {
@@ -54,4 +52,114 @@ button {
   position: absolute;
   top: 414px;
   left: 1129px;
+}
+
+h2 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+  width: 350px;
+  height: 128px;
+}
+.img1 {
+  width: 350px;
+  height: 120px;
+}
+.img2 {
+  width: 635px;
+  height: 400px;
+  display: inline-block;
+}
+.divtext {
+  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+}
+.section2 {
+  display: flex;
+  justify-content: center;
+  gap: 125px;
+  margin-top: 180px;
+}
+.img3 {
+  width: 635px;
+  height: 720px;
+}
+.img4 {
+  width: 445px;
+  height: 313px;
+}
+.divtext2 {
+  width: 445px;
+  height: 377px;
+  background-color: #151515;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+  align-items: center;
+  align-content: center;
+}
+.divtext21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+  align-items: start;
+  align-content: center;
+}
+.divimg {
+  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+h3 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #ffffff;
+  width: 350px;
+  height: 96px;
+}
+.section3 {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+footer {
+  max-width: 1440px;
+  height: 244px;
+  background-color: #151515;
+  margin-top: 180px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+h4 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  width: 430px;
+  height: 84px;
+}
+.imgtext2 {
+  width: 160px;
+  height: 58px;
+}
+.divfooter {
+  display: flex;
+  gap: 20px;
 }
