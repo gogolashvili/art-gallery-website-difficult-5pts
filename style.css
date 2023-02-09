@@ -177,6 +177,11 @@ h4 {
   display: flex;
   gap: 20px;
 }
+
+svg path:hover {
+  cursor: pointer;
+  fill: #d5966c;
+}
 @media (max-width: 376px) {
   .imgblack {
     display: none;

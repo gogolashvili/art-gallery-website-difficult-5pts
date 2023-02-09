@@ -112,6 +112,7 @@ footer img:hover {
   color: #ffffff;
   cursor: pointer;
 }
-.divfootermasc {
-  display: none;
+svg path:hover {
+  cursor: pointer;
+  fill: #ffffff;
 }
